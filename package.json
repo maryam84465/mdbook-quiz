@@ -1,6 +1,6 @@
 {
   "name": "mdbook-quiz",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "Interactive quizzes for Markdown",
   "main": "src/index.ts",
   "scripts": {
